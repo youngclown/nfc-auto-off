@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC Auto Off</string>
+    <string name="turn_on_nfc">Turn On NFC</string>
+    <string name="turn_off_nfc">Turn Off NFC</string>
+</resources>
